@@ -130,11 +130,4 @@ dotnet tool install --global --add-source ./bin/Release pscanner
 
 ---
 
-## Project Structure
 
-```
-ProjectScanner/
-├── Program.cs        — Entry point, argument handling, file collection
-├── Analyzer.cs       — Stack detection, port reading, report generation
-└── ProjectScanner.csproj — Project and tool configuration
-```
