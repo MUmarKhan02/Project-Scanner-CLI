@@ -14,7 +14,7 @@ Built for developers who have too many projects and can't remember how to run an
 ### Build and install globally
 
 ```bash
-git clone https://github.com/YOURUSERNAME/ProjectScanner.git
+git clone https://github.com/MUmarKhan02/Project-Scanner-CLI.git
 cd ProjectScanner
 dotnet pack
 dotnet tool install --global --add-source ./bin/Release pscanner
